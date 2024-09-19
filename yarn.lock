@@ -2055,7 +2055,7 @@ __metadata:
     globals: "npm:^15.9.0"
     react: "npm:^18.3.1"
     react-dom: "npm:^18.3.1"
-    sp-stories2: "git+https://github.com/jumib/sp-stories2.git"
+    sp-stories2: "git+https://github.com/jumib/sp-stories2.git#v0.0.2"
     typescript: "npm:^5.5.4"
     typescript-eslint: "npm:^8.0.1"
     vite: "npm:^5.4.1"
@@ -2247,13 +2247,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sp-stories2@git+https://github.com/jumib/sp-stories2.git":
+"sp-stories2@git+https://github.com/jumib/sp-stories2.git#v0.0.2":
   version: 0.0.0
-  resolution: "sp-stories2@https://github.com/jumib/sp-stories2.git#commit=dd9c1a8f667a45d32c230b691cd9183b1df60518"
+  resolution: "sp-stories2@https://github.com/jumib/sp-stories2.git#commit=81991184ebb058fabeeec8e694f7c1c420d5b31d"
   dependencies:
     react: "npm:^18.3.1"
     react-dom: "npm:^18.3.1"
-  checksum: 10c0/b3ecd45ea6286d9977d8669edf5a2b8d54b1dfcbea2e3e71afbaae62aca5f4b8f0520664f3e9130feea30ded9befd0e54758637d6fa802868b1607b42ab35176
+  checksum: 10c0/8c3059806c3cc6d2c9b600e7ff0a8c8eddadf7f1de98c3ff7d6af703117e5f8c8b55dd3964e9aa254ebc7911403d9dff6814e0324dea87022b10a7c44e2b321c
   languageName: node
   linkType: hard
 

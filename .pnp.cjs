@@ -37,7 +37,7 @@ const RAW_RUNTIME_STATE =
           ["globals", "npm:15.9.0"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:b133014d6ae19888e49c518878b8ca62381a5b0fe6391e137d17c402f0cb8d4766ec18314804229c48776af3df7ea68f48780bb85cf37faf977e81e5c7cfcedb#npm:18.3.1"],\
-          ["sp-stories2", "https://github.com/jumib/sp-stories2.git#commit=dd9c1a8f667a45d32c230b691cd9183b1df60518"],\
+          ["sp-stories2", "https://github.com/jumib/sp-stories2.git#commit=81991184ebb058fabeeec8e694f7c1c420d5b31d"],\
           ["typescript", "patch:typescript@npm%3A5.5.4#optional!builtin<compat/typescript>::version=5.5.4&hash=379a07"],\
           ["typescript-eslint", "virtual:b133014d6ae19888e49c518878b8ca62381a5b0fe6391e137d17c402f0cb8d4766ec18314804229c48776af3df7ea68f48780bb85cf37faf977e81e5c7cfcedb#npm:8.4.0"],\
           ["vite", "virtual:b133014d6ae19888e49c518878b8ca62381a5b0fe6391e137d17c402f0cb8d4766ec18314804229c48776af3df7ea68f48780bb85cf37faf977e81e5c7cfcedb#npm:5.4.3"]\
@@ -2491,10 +2491,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:445e74fb923f3ae90366e3a44bd20f0276511e2fcca5483ae3e4bdbbe9bc582a4875c38b56b650a7c3b56413c79727a73b18dba13b860f79ddb62b7410c40282#npm:18.3.1", {\
-        "packageLocation": "./.yarn/__virtual__/react-dom-virtual-5d7652e6b2/2/.yarn/berry/cache/react-dom-npm-18.3.1-a805663f38-10c0.zip/node_modules/react-dom/",\
+      ["virtual:2a25f6802bf7deb3f122060078306ad8d21cbcc27c85acc941e95dc0f226585db88604e7d68c1f4786e6d15bba5be664829adb75ad9f7707757f285fbfd2b86c#npm:18.3.1", {\
+        "packageLocation": "./.yarn/__virtual__/react-dom-virtual-c9357df3ba/2/.yarn/berry/cache/react-dom-npm-18.3.1-a805663f38-10c0.zip/node_modules/react-dom/",\
         "packageDependencies": [\
-          ["react-dom", "virtual:445e74fb923f3ae90366e3a44bd20f0276511e2fcca5483ae3e4bdbbe9bc582a4875c38b56b650a7c3b56413c79727a73b18dba13b860f79ddb62b7410c40282#npm:18.3.1"],\
+          ["react-dom", "virtual:2a25f6802bf7deb3f122060078306ad8d21cbcc27c85acc941e95dc0f226585db88604e7d68c1f4786e6d15bba5be664829adb75ad9f7707757f285fbfd2b86c#npm:18.3.1"],\
           ["@types/react", null],\
           ["loose-envify", "npm:1.4.0"],\
           ["react", "npm:18.3.1"],\
@@ -2537,7 +2537,7 @@ const RAW_RUNTIME_STATE =
           ["globals", "npm:15.9.0"],\
           ["react", "npm:18.3.1"],\
           ["react-dom", "virtual:b133014d6ae19888e49c518878b8ca62381a5b0fe6391e137d17c402f0cb8d4766ec18314804229c48776af3df7ea68f48780bb85cf37faf977e81e5c7cfcedb#npm:18.3.1"],\
-          ["sp-stories2", "https://github.com/jumib/sp-stories2.git#commit=dd9c1a8f667a45d32c230b691cd9183b1df60518"],\
+          ["sp-stories2", "https://github.com/jumib/sp-stories2.git#commit=81991184ebb058fabeeec8e694f7c1c420d5b31d"],\
           ["typescript", "patch:typescript@npm%3A5.5.4#optional!builtin<compat/typescript>::version=5.5.4&hash=379a07"],\
           ["typescript-eslint", "virtual:b133014d6ae19888e49c518878b8ca62381a5b0fe6391e137d17c402f0cb8d4766ec18314804229c48776af3df7ea68f48780bb85cf37faf977e81e5c7cfcedb#npm:8.4.0"],\
           ["vite", "virtual:b133014d6ae19888e49c518878b8ca62381a5b0fe6391e137d17c402f0cb8d4766ec18314804229c48776af3df7ea68f48780bb85cf37faf977e81e5c7cfcedb#npm:5.4.3"]\
@@ -2707,12 +2707,12 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["sp-stories2", [\
-      ["https://github.com/jumib/sp-stories2.git#commit=dd9c1a8f667a45d32c230b691cd9183b1df60518", {\
-        "packageLocation": "../.yarn/berry/cache/sp-stories2-https-445e74fb92-10c0.zip/node_modules/sp-stories2/",\
+      ["https://github.com/jumib/sp-stories2.git#commit=81991184ebb058fabeeec8e694f7c1c420d5b31d", {\
+        "packageLocation": "../.yarn/berry/cache/sp-stories2-https-2a25f6802b-10c0.zip/node_modules/sp-stories2/",\
         "packageDependencies": [\
-          ["sp-stories2", "https://github.com/jumib/sp-stories2.git#commit=dd9c1a8f667a45d32c230b691cd9183b1df60518"],\
+          ["sp-stories2", "https://github.com/jumib/sp-stories2.git#commit=81991184ebb058fabeeec8e694f7c1c420d5b31d"],\
           ["react", "npm:18.3.1"],\
-          ["react-dom", "virtual:445e74fb923f3ae90366e3a44bd20f0276511e2fcca5483ae3e4bdbbe9bc582a4875c38b56b650a7c3b56413c79727a73b18dba13b860f79ddb62b7410c40282#npm:18.3.1"]\
+          ["react-dom", "virtual:2a25f6802bf7deb3f122060078306ad8d21cbcc27c85acc941e95dc0f226585db88604e7d68c1f4786e6d15bba5be664829adb75ad9f7707757f285fbfd2b86c#npm:18.3.1"]\
         ],\
         "linkType": "HARD"\
       }]\

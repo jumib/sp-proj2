@@ -2,14 +2,16 @@ import { useState } from "react";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
-import { Button } from "sp-stories2";
+import { Button, Header, Page } from "sp-stories2";
 
 function App() {
   const [count, setCount] = useState(0);
 
   return (
     <>
-      <Button label="테스트버튼" onClick={() => alert("이관 성공!")} />
+      <Header />
+      <Page />
+      <Button label="테스트버튼" primary onClick={() => alert("이관 성공!")} />
       <div>
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
